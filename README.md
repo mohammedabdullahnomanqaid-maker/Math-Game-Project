@@ -27,7 +27,18 @@ Version **V1.1.0** represents a transition from the original C++ implementation 
 The project was developed as part of an educational development roadmap, applying software engineering concepts and focusing on building a flexible and customizable user interface.
 
 ---
+## 📸 Screenshots
 
+### Child Theme
+
+![Math Game Child](Screenshoots/Math-Game-Child.png)
+
+### Formal Theme
+
+![Math Game Formal](Screenshoots/Math-Game-Formal.png)
+
+
+---
 ## 🎯 Key Features
 
 ### 🎨 Multi-Theming
