@@ -1,66 +1,166 @@
-Math Quiz Game
+# 🧮 Math Quiz Game
 
-Math Quiz Game V1.1.0 is a modern desktop application developed in C# as a major evolution of the original C++ implementation. The application provides an interactive mathematical quiz experience with customizable themes, game settings, audio controls, and detailed results.
+> **Math Quiz Game V1.1.0** — A major C# upgrade of the original C++ version, focused on a more flexible user interface, customizable gameplay, and an enhanced user experience.
 
-Overview
+[![C#](https://img.shields.io/badge/C%23-Programming%20Language-239120?logo=csharp&logoColor=white)](#technologies)
+[![WinForms](https://img.shields.io/badge/.NET-WinForms-512BD4?logo=.net&logoColor=white)](#technologies)
+[![Version](https://img.shields.io/badge/Version-V1.1.0-blue)](#overview)
 
-Math Quiz Game represents a complete transition from the original C++ implementation to a feature-rich .NET Windows Forms application.
+---
 
-The project focuses on delivering a polished and customizable user experience while applying Object-Oriented Programming (OOP) and core software engineering principles.
+## 📑 Table of Contents
 
-Features
+- [Overview](#overview)
+- [Key Features](#key-features)
+- [User Experience](#user-experience)
+- [Technologies](#technologies)
+- [Development Journey](#development-journey)
 
-🎨 Multi-Theming System
+---
 
-- Switch dynamically between Formal and Kids interface themes.
-- Automatically adapt colors and backgrounds according to the selected theme.
+## 📖 Overview
 
-⚙️ Experience Customization
+**Math Quiz Game** is a desktop mathematics quiz application developed as an upgraded version of an earlier C++ implementation.
 
-- Choose between Small, Medium, and Large font sizes.
-- Control background music independently.
-- Control interactive sound effects.
+Version **V1.1.0** represents a transition from the original C++ implementation to **C# with WinForms**, with a strong focus on creating a more polished interface, flexible customization options, and an improved gameplay experience.
 
-🧮 Game Configuration
+The project was developed as part of an educational development roadmap, applying software engineering concepts and focusing on building a flexible and customizable user interface.
 
-- Select different difficulty levels.
-- Choose the desired arithmetic operation types.
-- Configure time limits.
-- Enable Endless Mode for continuous gameplay.
+---
 
-🖥️ Modern User Interface
+## 🎯 Key Features
 
-- Clean Navy Blue visual design.
-- Intuitive layout focused on smooth user interaction.
-- Customizable interface through the available theme and font settings.
+### 🎨 Multi-Theming
 
-📊 Interactive Results
+The application provides multiple interface themes designed for different audiences:
 
-- Dedicated result screens for completed quizzes.
-- Clear win/loss status.
-- Detailed statistics showing:
-  - Correct answers
-  - Incorrect answers
+- **Formal Theme**
+- **Kids Theme**
 
-Technologies
+The selected theme can dynamically change the application's colors and backgrounds.
 
-Technology| Usage
-C#| Application development
-.NET Windows Forms| Desktop application framework
-Object-Oriented Programming (OOP)| Core programming approach
+---
 
-Project Evolution
+### ⚙️ Customizable Experience
 
-The project is a major upgrade of the original C++ implementation, transitioning the application to a modern C# and .NET Windows Forms environment.
+Players can customize several aspects of the application:
 
-This evolution focuses on improving the overall interface, customization capabilities, and user experience while maintaining the core mathematical quiz concept.
+- Font size:
+  - Small
+  - Medium
+  - Large
+- Music control
+- Interactive sound effects control
 
-License
+These settings allow the user to adjust the experience according to their preferences.
 
-This project is licensed under the MIT License.
+---
 
-The license permits the use, modification, and distribution of the project, provided that the original copyright and authorship notice are preserved.
+### 🎮 Advanced Game Settings
 
-Author
+The game provides configurable gameplay options, including:
 
-Mohammed Abdullah Noman Qaid Mohammed
+- Difficulty level
+- Mathematical operation type
+- Time limit
+- **Endless Mode** for questions without a predefined ending
+
+---
+
+### 🧩 Difficulty Levels
+
+Players can select the desired difficulty level before starting the game, allowing the gameplay experience to be adjusted according to the selected challenge.
+
+---
+
+### ♾️ Endless Mode
+
+The application includes an **Endless Mode**, allowing the player to continue answering questions without a predefined question limit.
+
+---
+
+### 🖥️ Modern User Interface
+
+The interface was designed around a comfortable **Navy Blue** visual style, with an organized distribution of interface elements to provide a clear and easy-to-use experience.
+
+---
+
+### 📊 Interactive Results
+
+The application provides dynamic final result screens based on the player's outcome.
+
+The result screens display statistics including:
+
+- Correct answers
+- Incorrect answers
+
+Different final screens are presented depending on whether the player wins or loses.
+
+---
+
+## 🎨 User Experience
+
+The V1.1.0 update places particular emphasis on flexibility and customization.
+
+The application combines:
+
+- Dynamic themes
+- Customizable font sizes
+- Music and sound controls
+- Configurable difficulty
+- Mathematical operation selection
+- Time settings
+- Endless gameplay
+- Dynamic result screens
+
+These features were introduced as part of the effort to make the application feel more complete and provide a more flexible interaction experience.
+
+---
+
+## 🛠️ Technologies
+
+| Technology | Usage |
+|---|---|
+| **C#** | Application development |
+| **.NET / WinForms** | Desktop application and user interface |
+| **OOP Principles** | Application design |
+
+---
+
+## 🏗️ Development Journey
+
+The current version, **V1.1.0**, is an evolution of the original **V1.0.0**.
+
+### V1.0.0
+
+The original version was previously developed using **C++** as part of the educational development roadmap with **Dr. Mohammed Abu Hadhoud**.
+
+### V1.1.0
+
+The project was subsequently upgraded to:
+
+- **C#**
+- **.NET WinForms**
+- A more flexible user interface
+- Multi-theming
+- Advanced game settings
+- Customizable gameplay experience
+- Interactive result screens
+
+The main goal of this transition was to apply software engineering concepts learned during the development process while building a more flexible and customizable user interface.
+
+---
+
+## 📌 Version
+
+**Current Version:** `V1.1.0`
+
+**Previous Version:** `V1.0.0`
+
+---
+
+## 👨‍💻 Project Focus
+
+The development of **Math Quiz Game V1.1.0** focuses on applying software engineering concepts while improving the application's interface, customization capabilities, and overall user experience.
+
+---
