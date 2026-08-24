@@ -37,6 +37,7 @@ The project was developed as part of an educational development roadmap, applyin
 
 </div>
 ---
+
 ## 🎯 Key Features
 
 ### 🎨 Multi-Theming
