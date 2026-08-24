@@ -27,15 +27,19 @@ Version **V1.1.0** represents a transition from the original C++ implementation 
 The project was developed as part of an educational development roadmap, applying software engineering concepts and focusing on building a flexible and customizable user interface.
 
 ---
+
 ## 📸 Screenshots
 
-<div style="display: flex; overflow-x: auto; gap: 16px; padding: 10px 0;">
+<details>
+<summary>View All Screenshots</summary>
 
-  <img src="Screenshoots/Math-Game-Child.png" alt="Math Game Child" width="500">
+<img src="Screenshoots/Math-Game-Child.png" width="700">
 
-  <img src="Screenshoots/Math-Game-Formal.png" alt="Math Game Formal" width="500">
+<img src="Screenshoots/Math-Game-Formal.png" width="700">
 
-</div>
+<!-- باقي الصور -->
+
+</details>
 ---
 
 ## 🎯 Key Features
