@@ -29,15 +29,13 @@ The project was developed as part of an educational development roadmap, applyin
 ---
 ## 📸 Screenshots
 
-### Child Theme
+<div style="display: flex; overflow-x: auto; gap: 16px; padding: 10px 0;">
 
-![Math Game Child](Screenshoots/Math-Game-Child.png)
+  <img src="Screenshoots/Math-Game-Child.png" alt="Math Game Child" width="500">
 
-### Formal Theme
+  <img src="Screenshoots/Math-Game-Formal.png" alt="Math Game Formal" width="500">
 
-![Math Game Formal](Screenshoots/Math-Game-Formal.png)
-
-
+</div>
 ---
 ## 🎯 Key Features
 
