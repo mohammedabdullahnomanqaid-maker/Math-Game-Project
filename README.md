@@ -1,6 +1,6 @@
-# 🧮 Math Quiz Game
+# 🧮 Math Game (v2.0.0)
 
-> **Math Quiz Game V1.1.0** — A major C# upgrade of the original C++ version, focused on a more flexible user interface, customizable gameplay, and an enhanced user experience.
+> **Math Quiz Game V2.0.0** — A major C# upgrade of the original C++ version, focused on a more flexible user interface, customizable gameplay, and an enhanced user experience.
 
 [![C#](https://img.shields.io/badge/C%23-Programming%20Language-239120?logo=csharp&logoColor=white)](#technologies)
 [![WinForms](https://img.shields.io/badge/.NET-WinForms-512BD4?logo=.net&logoColor=white)](#technologies)
@@ -114,7 +114,7 @@ Different final screens are presented depending on whether the player wins or lo
 
 ## 🎨 User Experience
 
-The V1.1.0 update places particular emphasis on flexibility and customization.
+The V2.0.0 update places particular emphasis on flexibility and customization.
 
 The application combines:
 
@@ -149,7 +149,7 @@ The current version, **V1.1.0**, is an evolution of the original **V1.0.0**.
 
 The original version was previously developed using **C++** as part of the educational development roadmap with **Dr. Mohammed Abu Hadhoud**.
 
-### V1.1.0
+### V2.0.0
 
 The project was subsequently upgraded to:
 
@@ -167,7 +167,7 @@ The main goal of this transition was to apply software engineering concepts lear
 
 ## 📌 Version
 
-**Current Version:** `V1.1.0`
+**Current Version:** `V2.0.0`
 
 **Previous Version:** `V1.0.0`
 
@@ -175,6 +175,6 @@ The main goal of this transition was to apply software engineering concepts lear
 
 ## 👨‍💻 Project Focus
 
-The development of **Math Quiz Game V1.1.0** focuses on applying software engineering concepts while improving the application's interface, customization capabilities, and overall user experience.
+The development of **Math Quiz Game V2.0.0** focuses on applying software engineering concepts while improving the application's interface, customization capabilities, and overall user experience.
 
 ---
