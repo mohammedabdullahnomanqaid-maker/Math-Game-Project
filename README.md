@@ -143,7 +143,7 @@ These features were introduced as part of the effort to make the application fee
 
 ## 🏗️ Development Journey
 
-The current version, **V1.1.0**, is an evolution of the original **V1.0.0**.
+The current version, **V2.0.0**, is an evolution of the original **V1.0.0**.
 
 ### V1.0.0
 
