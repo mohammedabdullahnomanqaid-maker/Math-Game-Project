@@ -188,3 +188,13 @@ The main goal of this transition was to apply software engineering concepts lear
 The development of **Math Quiz Game V2.0.0** focuses on applying software engineering concepts while improving the application's interface, customization capabilities, and overall user experience.
 
 ---
+
+---
+
+## 👨‍💻 Author
+
+<p align="center">
+  <strong>Mohammed Abdullah Noman Qaid Mohammed</strong>
+</p>
+
+---
