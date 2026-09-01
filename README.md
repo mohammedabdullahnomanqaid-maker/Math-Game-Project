@@ -15,7 +15,7 @@
 - [User Experience](#user-experience)
 - [Technologies](#technologies)
 - [Development Journey](#development-journey)
-- <a href="#-timeline">📅 Timeline</a>
+- <a href="#-timeline"> Timeline</a>
 
 ---
 
