@@ -15,6 +15,7 @@
 - [User Experience](#user-experience)
 - [Technologies](#technologies)
 - [Development Journey](#development-journey)
+- <a href="#-timeline">📅 Timeline</a>
 
 ---
 
@@ -162,6 +163,15 @@ The project was subsequently upgraded to:
 - Interactive result screens
 
 The main goal of this transition was to apply software engineering concepts learned during the development process while building a more flexible and customizable user interface.
+
+---
+
+## 📅 Timeline
+
+| Version | Start Date | End Date | Language |
+|:---:|:---:|:---:|:---:|
+| **v2.0.0** | 2026/04/12 | 2026/04/16 | C# |
+| [**v1.0.0**](https://github.com/mohammedabdullahnomanqaid-maker/Math-Game-v1.0.0) | 2025/11/28 | 2025/11/30 | C++ |
 
 ---
 
